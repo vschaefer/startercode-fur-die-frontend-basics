@@ -8,4 +8,4 @@ Das ist der Startercode für die ersten Sessions im Kurs Frontend-Development. W
 
 ## Credits 📝
 
-Der Content für diese Aufgabe basiert auf Inhalten der Website [chefkoch.de](https://www.chefkoch.de) 
+Der Content für diese Aufgabe basiert auf Inhalten der Website [chefkoch.de](https://www.chefkoch.de).
